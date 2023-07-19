@@ -1,2 +1,2 @@
-# Projeto_Notas
+# Projeto
 Projeto de Registro de Anotação
